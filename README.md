@@ -1,2 +1,2 @@
-# Energy_Analytics_hw1
+# Energy_Analytics
 Assignment 1
